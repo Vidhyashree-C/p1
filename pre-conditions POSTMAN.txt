@@ -1,0 +1,11 @@
+-User should logged in to their TestRail account
+-User must have an access for POSTMAN application
+-API must be enabled for TestRail instance
+-User must have Available projects to create "Test Run"
+-Created "Test Run" should have unique run_id
+-Some test cases must present in the project
+-User should create Workspace for storing API methods
+-User should create a Collection
+-Make sure you created Environment variable for existing Collection
+
+
